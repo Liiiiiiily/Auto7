@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Feb 17 20:46:20 SAMT 2023","Fri Feb 17 20:46:25 SAMT 2023","4881","","org.example.geekbrains.lesson6PageObject.test6","","org.example.geekbrains.lesson6PageObject.test6","realWebinars","realWebinars()",""
